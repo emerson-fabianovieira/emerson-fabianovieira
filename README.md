@@ -14,13 +14,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   
-</div>
- 
-  ##
- 
-<div>
-   
+      
 </div>
  
   ##
@@ -39,7 +33,6 @@
 <img align="center" alt="emerson-fabianovieira-selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <img align="center" alt="emerson-fabianovieira-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
  
   ##
  
