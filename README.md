@@ -85,10 +85,11 @@
    <img align="center" alt="emerson-fabianovieira-pic" src="https://user-images.githubusercontent.com/93287829/159994320-b3a0e64e-b415-4a26-9b11-be0824dc84d8.png" width="180px">
   <img align="center" alt="emerson-fabianovieira-pic" src="https://user-images.githubusercontent.com/93287829/159994798-b5224c64-4212-48fd-83c5-ee838ebd9bed.jpg" width="200px"> 
  <img align="center" alt="emerson-fabianovieira-jira" src="https://user-images.githubusercontent.com/93287829/159997002-8e76b44d-b4d2-4001-ac76-c421595d6423.png" width="300px"> 
- 
-
+/div>
+  ##
+<div>
+  <img align="center" alt="emerson-fabianovieira-jira" src="https://user-images.githubusercontent.com/93287829/159997002-8e76b44d-b4d2-4001-ac76-c421595d6423.png" width="300px"> 
 </div>
- 
   ##
 <div> 
   
