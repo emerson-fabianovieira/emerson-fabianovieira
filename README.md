@@ -5,7 +5,6 @@
  
 </div>
 
- 
   ##
  
 <div> 
@@ -13,8 +12,7 @@
   <a href="https://github.com/emerson-fabianovieira">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>      
 </div>
  
   ##
@@ -34,8 +32,7 @@
 <img align="center" alt="emerson-fabianovieira-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
-  ##
- 
+ ##
 <div>     
 <img align="center" alt="emerson-fabianovieira-Git" height="30" width="60" src="https://badgen.net/badge/icon/git?icon=git&label">
 <img align="center" alt="emerson-fabianovieira-GitHub" height="40" width="90" src="https://badgen.net/badge/icon/github?icon=github&label">
@@ -43,11 +40,9 @@
 <img align="center" alt="emerson-fabianovieira-Jira" height="30" width="65" src="https://badgen.net/badge/icon/jira?icon=jira&label">
 <img align="center" alt="emerson-fabianovieira-Discord" height="30" width="90" src="https://badgen.net/badge/icon/discord?icon=discord&label">
 <img align="center" alt="emerson-fabianovieira-eclipse" height="30" width="85" src="https://badgen.net/badge/icon/eclipse?icon=eclipse&label">
-                                                                                 
-</div>
+</div> 
  
-  ##
- 
+ ##
 <div> 
  <img align="center" alt="emerson-fabianovieira-Cypress" height="30" width="85" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
  <img align="center" alt="emerson-fabianovieira-JUnit5" height="30" width="85" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
@@ -61,9 +56,8 @@
  <img align="center" alt="emerson-fabianovieira-jira" height="30" width="85" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
  </div>
- 
-  ##
- 
+  
+ ##
 <div> 
 
  <img align="center" alt="emerson-fabianovieira-Excel" height="30" width="85" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
@@ -75,7 +69,6 @@
 </div>
  
   ##
- 
 <div> 
   
   <a href="https://www.linkedin.com/in/emersonfabianovieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
