@@ -2,7 +2,9 @@
 ### Eu sou Emerson Fabiano Vieira 👋
 </div>
  🔭 Hoje trabalho como QA - Quality Assurance / Test Analyst na NTTDATA
- 
+
+  <img align="center" alt="emerson-fabianovieira-Js" src="https://user-images.githubusercontent.com/93287829/159989626-0ee1728a-a76b-44a8-b54b-1ed3063ac214.png" width="120px">
+   
 </div>
 
   ##
