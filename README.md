@@ -48,8 +48,8 @@
 <img align="center" alt="emerson-fabianovieira-AndroidStudio" height="30" width="100" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img align="center" alt="emerson-fabianovieira-JUnit5" height="30" width="100" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
 <img align="center" alt="emerson-fabianovieira-Node-js" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img align="center" alt="emerson-fabianovieira-selenium" height="30" width="100" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <br><br>
-  
+<img align="center" alt="emerson-fabianovieira-selenium" height="30" width="100" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> 
+ <br><br>
 <img align="center" alt="emerson-fabianovieira-VSC" height="30" width="100" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img align="center" alt="emerson-fabianovieira-jira" height="30" width="100" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <img align="center" alt="emerson-fabianovieira-Eclipse" height="30" width="100" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
