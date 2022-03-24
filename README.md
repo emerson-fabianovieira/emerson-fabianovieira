@@ -2,13 +2,6 @@
 
  🔭 Hoje trabalho como QA - Quality Assurance / Test Analyst na NTTDATA
  
- 
- <div align="center">
-<a href="https://github.com/emerson-fabianovieira">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-fabianovieira&layout=compact&langs_count=7&theme=dark"/>
-     
-</div>
 </div>
 
  
@@ -17,11 +10,17 @@
 <div> 
  <div align="center">
   <a href="https://github.com/emerson-fabianovieira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-fabianovieira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   
 </div>
+ 
+  ##
+ 
+<div>
+   
 </div>
-
  
   ##
  
@@ -50,9 +49,36 @@
 <img align="center" alt="emerson-fabianovieira-Jira" height="30" width="65" src="https://badgen.net/badge/icon/jira?icon=jira&label">
 <img align="center" alt="emerson-fabianovieira-Discord" height="30" width="90" src="https://badgen.net/badge/icon/discord?icon=discord&label">
 <img align="center" alt="emerson-fabianovieira-eclipse" height="30" width="85" src="https://badgen.net/badge/icon/eclipse?icon=eclipse&label">
-       
+                                                                                 
 </div>
+ 
+  ##
+ 
+<div> 
+ <img align="center" alt="emerson-fabianovieira-Cypress" height="30" width="85" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-JUnit5" height="30" width="85" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-Node-js" height="30" width="85" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-selenium" height="30" width="85" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-Eclipse" height="30" width="85" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-IntelliJ" height="30" width="85" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+ 
+ <img align="center" alt="emerson-fabianovieira-Notepad++" height="30" width="85" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+ <img align="center" alt="emerson-fabianovieira-VSC" height="30" width="85" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-jira" height="30" width="85" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
+ </div>
+ 
+  ##
+ 
+<div> 
+
+ <img align="center" alt="emerson-fabianovieira-Excel" height="30" width="85" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-Excel" height="30" width="85" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img align="center" alt="emerson-fabianovieira-PPT" height="30" width="85" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img align="center" alt="emerson-fabianovieira-word" height="30" width="85" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+
+ 
+</div>
  
   ##
  
