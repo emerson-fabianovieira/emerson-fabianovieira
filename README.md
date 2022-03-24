@@ -91,7 +91,9 @@
   ##
  
 <div>
-  <img align="center" alt="emerson-fabianovieira-jira" src="https://user-images.githubusercontent.com/93287829/159998013-a7c73cf1-598b-4d75-8732-9ecc2f21ce36.png" width="100px">
+  <img align="center" alt="emerson-fabianovieira-discom" src="https://user-images.githubusercontent.com/93287829/159998013-a7c73cf1-598b-4d75-8732-9ecc2f21ce36.png" width="100px">
+ 
+  <img align="center" alt="emerson-fabianovieira-mit"  height="50" width="150" src="https://user-images.githubusercontent.com/93287829/159999434-eabdeed1-3b4f-4815-a6e4-8516e55e41ca.png" >
  
 </div>
  
