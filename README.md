@@ -83,6 +83,10 @@
   ##
 <div>
    <img align="center" alt="emerson-fabianovieira-pic" src="https://user-images.githubusercontent.com/93287829/159993487-5b7f0ce7-9e37-481c-98e0-8eb03de591f1.jpg" width="200px">
+ 
+   <img align="center" alt="emerson-fabianovieira-pic" src="https://user-images.githubusercontent.com/93287829/159994320-b3a0e64e-b415-4a26-9b11-be0824dc84d8.png" width="200px">
+ 
+ 
 
 </div>
  
