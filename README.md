@@ -35,8 +35,8 @@
 <div>     
 <img align="center" alt="emerson-fabianovieira-Git" height="30" width="60" src="https://badgen.net/badge/icon/git?icon=git&label">
 <img align="center" alt="emerson-fabianovieira-GitHub" height="40" width="80" src="https://badgen.net/badge/icon/github?icon=github&label">
-<img align="center" alt="emerson-fabianovieira-GitLab" height="40" width="80" src="https://badgen.net/badge/icon/gitlab?icon=gitlab&label">
-<img align="center" alt="emerson-fabianovieira-Jira" height="30" width="65" src="https://badgen.net/badge/icon/jira?icon=jira&label">
+<img align="center" alt="emerson-fabianovieira-GitLab" height="40" width="75" src="https://badgen.net/badge/icon/gitlab?icon=gitlab&label">
+<img align="center" alt="emerson-fabianovieira-Jira" height="30" width="60" src="https://badgen.net/badge/icon/jira?icon=jira&label">
 <img align="center" alt="emerson-fabianovieira-Discord" height="30" width="80" src="https://badgen.net/badge/icon/discord?icon=discord&label">
 <img align="center" alt="emerson-fabianovieira-eclipse" height="30" width="85" src="https://badgen.net/badge/icon/eclipse?icon=eclipse&label">
 <img align="center" alt="emerson-fabianovieira-VSC" height="30" width="120" src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label">
