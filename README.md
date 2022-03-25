@@ -71,20 +71,20 @@
  ##
 <div> 
 
- <img align="center" alt="emerson-fabianovieira-Excel" height="30" width="200" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-Offce" height="30" width="200" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img align="center" alt="emerson-fabianovieira-PPT" height="30" width="200" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 <img align="center" alt="emerson-fabianovieira-Excel" height="30" width="200" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img align="center" alt="emerson-fabianovieira-PPT" height="30" width="200" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"><br><br>
-<img align="center" alt="emerson-fabianovieira-word" height="30" width="200" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"> 
- <img align="center" alt="emerson-fabianovieira-teams" height="30" width="200" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"> 
- <img align="center" alt="emerson-fabianovieira-edge" height="30" width="200" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
  <br><br>
+<img align="center" alt="emerson-fabianovieira-word" height="30" width="200" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"> 
+ <img align="center" alt="emerson-fabianovieira-edge" height="30" width="200" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
+  <img align="center" alt="emerson-fabianovieira-teams" height="30" width="200" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"><br><br>
  </div>
- 
-  ##
+
+ ##
 <div>
    <img align="center" alt="emerson-fabianovieira-pic" src="https://user-images.githubusercontent.com/93287829/159994320-b3a0e64e-b415-4a26-9b11-be0824dc84d8.png" width="180px">
-  <img align="center" alt="emerson-fabianovieira-pic" src="https://user-images.githubusercontent.com/93287829/159994798-b5224c64-4212-48fd-83c5-ee838ebd9bed.jpg" width="200px"> 
- <img align="center" alt="emerson-fabianovieira-jira" src="https://user-images.githubusercontent.com/93287829/159997002-8e76b44d-b4d2-4001-ac76-c421595d6423.png" width="300px"> 
+  <img align="center" alt="emerson-fabianovieira-pic" src="https://user-images.githubusercontent.com/93287829/159994798-b5224c64-4212-48fd-83c5-ee838ebd9bed.jpg" width="180px"> 
+ <img align="center" alt="emerson-fabianovieira-jira" src="https://user-images.githubusercontent.com/93287829/159997002-8e76b44d-b4d2-4001-ac76-c421595d6423.png" width="200px"> 
  
 </div>
  
