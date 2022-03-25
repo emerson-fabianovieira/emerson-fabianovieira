@@ -46,23 +46,24 @@
 <div> 
  <img align="center" alt="emerson-fabianovieira-Notepad++" height="30" width="100" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 <img align="center" alt="emerson-fabianovieira-AndroidStudio" height="30" width="100" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-googlemeet" height="30" width="100" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white">
 <img align="center" alt="emerson-fabianovieira-JUnit5" height="30" width="100" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-<img align="center" alt="emerson-fabianovieira-Node-js" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img align="center" alt="emerson-fabianovieira-selenium" height="30" width="100" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> 
- <br><br>
+<img align="center" alt="emerson-fabianovieira-Node-js" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+<br>
+<br>
+<img align="center" alt="emerson-fabianovieira-selenium" height="30" width="100" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+<img align="center" alt="emerson-fabianovieira-Postman" height="30" width="100" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-PowerBI" height="30" width="100" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+  <img align="center" alt="emerson-fabianovieira-Gdrive" height="30" width="100" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+ <img align="center" alt="emerson-fabianovieira-zoom" height="30" width="100" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> 
+<br>
+<br>
 <img align="center" alt="emerson-fabianovieira-VSC" height="30" width="100" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img align="center" alt="emerson-fabianovieira-jira" height="30" width="100" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <img align="center" alt="emerson-fabianovieira-Eclipse" height="30" width="100" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img align="center" alt="emerson-fabianovieira-Cypress" height="30" width="100" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
 <img align="center" alt="emerson-fabianovieira-IntelliJ" height="30" width="100" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
- <br><br>
  
-<img align="center" alt="emerson-fabianovieira-Postman" height="30" width="100" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
- <img align="center" alt="emerson-fabianovieira-PowerBI" height="30" width="100" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-  <img align="center" alt="emerson-fabianovieira-word" height="30" width="100" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
- <img align="center" alt="emerson-fabianovieira-zoom" height="30" width="100" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
- 
-  <img align="center" alt="emerson-fabianovieira-googlemeet" height="30" width="100" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white">
  </div>
   
  ##
