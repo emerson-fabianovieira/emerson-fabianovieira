@@ -82,18 +82,26 @@
 
  ##
 <div>
+ 
+ <img align="center" alt="emerson-fabianovieira-HP_ALM" src="https://user-images.githubusercontent.com/93287829/160112957-dd4a682c-ccb0-4c0d-b904-751459bf96cc.png" width="50px">
+ <img align="center" alt="emerson-fabianovieira-ALM OCTANE" src="https://user-images.githubusercontent.com/93287829/160112864-bc0a5974-2919-4ad4-9124-4bec8f6785c1.png" width="50px">
+ <img align="center" alt="emerson-fabianovieira-ALM OCTANE" src="https://user-images.githubusercontent.com/93287829/160112874-3019c240-dff7-40f8-a37c-d01b4cc17989.png" width="100px">
+ 
    <img align="center" alt="emerson-fabianovieira-pic" src="https://user-images.githubusercontent.com/93287829/159994320-b3a0e64e-b415-4a26-9b11-be0824dc84d8.png" width="180px">
-  <img align="center" alt="emerson-fabianovieira-pic" src="https://user-images.githubusercontent.com/93287829/159994798-b5224c64-4212-48fd-83c5-ee838ebd9bed.jpg" width="180px"> 
- <img align="center" alt="emerson-fabianovieira-jira" src="https://user-images.githubusercontent.com/93287829/159997002-8e76b44d-b4d2-4001-ac76-c421595d6423.png" width="200px"> 
+  
+ <img align="center" alt="emerson-fabianovieira-jira" src="https://user-images.githubusercontent.com/93287829/159997002-8e76b44d-b4d2-4001-ac76-c421595d6423.png" width="180px">
+
+ <img align="center" alt="emerson-fabianovieira-Postman" src="https://user-images.githubusercontent.com/93287829/160112945-1b15466c-3a0f-4ac1-a9e5-20a9bddf076e.png" width="100px"> 
  
 </div>
  
   ##
  
 <div>
-  <img align="center" alt="emerson-fabianovieira-discom" src="https://user-images.githubusercontent.com/93287829/159998013-a7c73cf1-598b-4d75-8732-9ecc2f21ce36.png" width="100px">
- 
-  <img align="center" alt="emerson-fabianovieira-mit"  height="50" width="150" src="https://user-images.githubusercontent.com/93287829/159999434-eabdeed1-3b4f-4815-a6e4-8516e55e41ca.png" >
+  
+  <img align="center" alt="emerson-fabianovieira-alura" src="https://user-images.githubusercontent.com/93287829/160112734-a31ce6fa-c0d0-4d06-aaee-91b664f7c49c.png" width="100px">
+<img align="center" alt="emerson-fabianovieira-dio" src="https://user-images.githubusercontent.com/93287829/160112930-5930daf6-f0bd-4f32-bc79-e4cb9650b34a.png" width="100px">
+ <img align="center" alt="emerson-fabianovieira-digital-innovation-one" src="https://user-images.githubusercontent.com/93287829/160112916-da9036d4-f29e-4e74-922e-1d24fc856a02.png" width="100px">
  
 </div>
  
