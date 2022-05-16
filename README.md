@@ -108,7 +108,9 @@
   ##
 <div> 
   
-  <a href="https://www.linkedin.com/in/emersonfabianovieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/emersonfabianovieira" target="_blank"> <img src="https://user-images.githubusercontent.com/93287829/160112734-a31ce6fa-c0d0-4d06-aaee-91b664f7c49c.png" target="_blank" width="100px" ></a> 
+ 
+   <a href="https://cursos.alura.com.br/user/emerson-fabianovieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
   
