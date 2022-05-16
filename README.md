@@ -99,7 +99,7 @@
  
 <div>
   
-  <img align="center" alt="emerson-fabianovieira-alura" src="https://user-images.githubusercontent.com/93287829/160112734-a31ce6fa-c0d0-4d06-aaee-91b664f7c49c.png" width="100px">
+  <img align="center" alt="emerson-fabianovieira-alura" src="https://user-images.githubusercontent.com/93287829/160112734-a31ce6fa-c0d0-4d06-aaee-91b664f7c49c.png" width="100px" href="https://cursos.alura.com.br/user/emerson-fabianovieira">
 <img align="center" alt="emerson-fabianovieira-dio" src="https://user-images.githubusercontent.com/93287829/160112930-5930daf6-f0bd-4f32-bc79-e4cb9650b34a.png" width="100px">
  <img align="center" alt="emerson-fabianovieira-digital-innovation-one" src="https://user-images.githubusercontent.com/93287829/160112916-da9036d4-f29e-4e74-922e-1d24fc856a02.png" width="100px">
  
