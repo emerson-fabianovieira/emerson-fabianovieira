@@ -6,19 +6,15 @@
 <br>
     <a href="https://www.nttdata.com" target="_blank"><img src="https://user-images.githubusercontent.com/93287829/159989626-0ee1728a-a76b-44a8-b54b-1ed3063ac214.png" width="200px" target="_blank"></a> 
  
-
+##
 </div>
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark"></a>
+<img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
 
-  ##
-<div> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark"> </a>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> </a> 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
- 
-  ##
-<div>
-  <img align="center" alt="emerson-fabianovieira-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+##
+
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
+<img align="center" alt="emerson-fabianovieira-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="emerson-fabianovieira-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="emerson-fabianovieira-java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="emerson-fabianovieira-Java" height="40" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -29,8 +25,7 @@
 <img align="center" alt="emerson-fabianovieira-jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"> 
 <img align="center" alt="emerson-fabianovieira-selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
 <img align="center" alt="emerson-fabianovieira-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
- 
+
  ##
 <div>     
 <img align="center" alt="emerson-fabianovieira-Git" height="30" width="57" src="https://badgen.net/badge/icon/git?icon=git&label">
