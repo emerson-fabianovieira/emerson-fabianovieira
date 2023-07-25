@@ -11,8 +11,7 @@
 
   ##
 <div> 
- 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark"> </a>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> </a> 
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
