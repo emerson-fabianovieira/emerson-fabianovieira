@@ -4,12 +4,13 @@
  :computer: Hoje trabalho como QA - Quality Assurance | Test Analyst na NTTDATA
 </div>
 <br>
-    <a href="https://www.nttdata.com" target="_blank"><img src="https://user-images.githubusercontent.com/93287829/159989626-0ee1728a-a76b-44a8-b54b-1ed3063ac214.png" width="200px" target="_blank"></a> 
+    <a href="https://www.nttdata.com" target="_blank"><img src="https://user-images.githubusercontent.com/93287829/159989626-0ee1728a-a76b-44a8-b54b-1ed3063ac214.png" width="200px" target="_blank"/></a> 
  
 ##
 </div>
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark"></a>
-<img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark"></a>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ##
 
