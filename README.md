@@ -11,11 +11,10 @@
 
   ##
 <div> 
- <div align="center">
-  <a href="https://github.com/emerson-fabianovieira">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> </a> 
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
  
   ##
