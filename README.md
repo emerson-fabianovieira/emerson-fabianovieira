@@ -5,7 +5,11 @@
 </div>
 <br>
     <a href="https://www.nttdata.com" target="_blank"><img src="https://user-images.githubusercontent.com/93287829/159989626-0ee1728a-a76b-44a8-b54b-1ed3063ac214.png" width="200px" target="_blank"/></a> 
- 
+
+Linkedin: https://www.linkedin.com/in/emersonfabianovieira/ </div> <br>
+DIO: https://www.dio.me/users/vieira_efv <br>
+Alura: https://cursos.alura.com.br/user/emerson-fabianovieira
+
 ##
 </div>
 
