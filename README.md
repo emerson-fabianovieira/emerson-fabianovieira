@@ -91,6 +91,12 @@ Alura: https://cursos.alura.com.br/user/emerson-fabianovieira
 
  <img align="center" alt="emerson-fabianovieira-Postman" src="https://user-images.githubusercontent.com/93287829/160112945-1b15466c-3a0f-4ac1-a9e5-20a9bddf076e.png" width="100px"> 
  
+ <img align="center" alt="Microsoft" src="https://github.com/emerson-fabianovieira/REPOSIT-RIO-DE-M-DIA/blob/main/Logo/Microsoft-whitefont.png" width="100px"> 
+
+ <img align="center" alt="Conquer" src="https://github.com/emerson-fabianovieira/REPOSIT-RIO-DE-M-DIA/blob/main/Logo/CONQUER.png" height="60px"> 
+
+ <img align="center" alt="DISCOM" src="https://github.com/emerson-fabianovieira/REPOSIT-RIO-DE-M-DIA/blob/main/Logo/DISCOM.png" width="100px"> 
+
 </div>
  
   ##
@@ -98,7 +104,7 @@ Alura: https://cursos.alura.com.br/user/emerson-fabianovieira
 <div>
   
   <img align="center" alt="emerson-fabianovieira-alura" src="https://user-images.githubusercontent.com/93287829/160112734-a31ce6fa-c0d0-4d06-aaee-91b664f7c49c.png" width="100px" href="https://cursos.alura.com.br/user/emerson-fabianovieira">
-<img align="center" alt="emerson-fabianovieira-dio" src="https://user-images.githubusercontent.com/93287829/160112930-5930daf6-f0bd-4f32-bc79-e4cb9650b34a.png" width="100px">
+<img align="center" alt="emerson-fabianovieira-dio" src="https://raw.githubusercontent.com/emerson-fabianovieira/REPOSIT-RIO-DE-M-DIA/refs/heads/main/Logo/DIO.png" width="100px">
  <img align="center" alt="emerson-fabianovieira-digital-innovation-one" src="https://user-images.githubusercontent.com/93287829/160112916-da9036d4-f29e-4e74-922e-1d24fc856a02.png" width="100px">
  
 </div>
